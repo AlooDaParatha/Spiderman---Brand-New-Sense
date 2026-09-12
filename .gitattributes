@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+Content/Maps/TestCity.umap filter=lfs diff=lfs merge=lfs -text
+Content/KiteDemo/Environments/GroundTiles/PebblyRiverbank/T_Tile_PebblyRiverbank_D.uasset filter=lfs diff=lfs merge=lfs -text
+Content/KiteDemo/Environments/GroundTiles/PebblyRiverbank/T_Tile_PebblyRiverbank_N.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Audio/SoundFX/15_Howling_wind.uasset filter=lfs diff=lfs merge=lfs -text
