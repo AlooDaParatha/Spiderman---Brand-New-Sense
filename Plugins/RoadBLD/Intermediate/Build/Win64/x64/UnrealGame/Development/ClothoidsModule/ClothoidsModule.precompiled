@@ -1,0 +1,30 @@
+{
+	"OutputFiles": [
+		"ClothoidsModule.cpp.obj",
+		"ClothoidUtils.cpp.obj",
+		"PolynomialRoots-1-Quadratic.cc.obj",
+		"PolynomialRoots-2-Cubic.cc.obj",
+		"PolynomialRoots-3-Quartic.cc.obj",
+		"PolynomialRoots-Jenkins-Traub.cc.obj",
+		"PolynomialRoots-Utils.cc.obj",
+		"AABBtree.cc.obj",
+		"Biarc.cc.obj",
+		"BiarcList.cc.obj",
+		"Circle.cc.obj",
+		"Clothoid.cc.obj",
+		"ClothoidDistance.cc.obj",
+		"ClothoidG2.cc.obj",
+		"ClothoidList.cc.obj",
+		"ClothoidSpline-Interpolation.cc.obj",
+		"ClothoidSpline-IpoptSolver.cc.obj",
+		"ClothoidSpline-LMSolver.cc.obj",
+		"Constants.cc.obj",
+		"Fresnel.cc.obj",
+		"G2lib.cc.obj",
+		"G2lib_intersect.cc.obj",
+		"Line.cc.obj",
+		"PolyLine.cc.obj",
+		"Triangle2D.cc.obj"
+	],
+	"ToolChainVersion": "14.44.35223"
+}

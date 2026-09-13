@@ -1,0 +1,24 @@
+{
+	"OutputFiles": [
+		"Module.CityBLDRuntime.gen.cpp.obj",
+		"CityBlockGeo.cpp.obj",
+		"BuildingPolygon.cpp.obj",
+		"CityBLDPrefab.cpp.obj",
+		"CityBLDRuntimeModule.cpp.obj",
+		"CityBLDSplineComponent.cpp.obj",
+		"CityBLDTypes.cpp.obj",
+		"CityBLDUtils.cpp.obj",
+		"CityBlock.cpp.obj",
+		"CityDynamicMeshGenerator.cpp.obj",
+		"CityParcelPCGHostActor.cpp.obj",
+		"DynameshActor.cpp.obj",
+		"ModularBuildingActor.cpp.obj",
+		"RoofStaticMeshGenerator.cpp.obj",
+		"StraightSkeleton.cpp.obj",
+		"StraightSkeletonFunctionsLibrary.cpp.obj",
+		"PCGCityBLDGetParcelsSettings.cpp.obj",
+		"RoofPartDecomposition.cpp.obj",
+		"RoofPartMesher.cpp.obj"
+	],
+	"ToolChainVersion": "14.44.35223"
+}
