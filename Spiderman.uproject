@@ -31,6 +31,10 @@
 		{
 			"Name": "TwinBLD",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelContextProtocol",
+			"Enabled": true
 		}
 	]
 }
