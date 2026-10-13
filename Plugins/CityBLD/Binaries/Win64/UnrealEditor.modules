@@ -1,8 +1,0 @@
-{
-	"BuildId": "55116800",
-	"Modules": 
-	{
-		"CityBLDEditor": "UnrealEditor-CityBLDEditor.dll",
-		"CityBLDRuntime": "UnrealEditor-CityBLDRuntime.dll"
-	}
-}

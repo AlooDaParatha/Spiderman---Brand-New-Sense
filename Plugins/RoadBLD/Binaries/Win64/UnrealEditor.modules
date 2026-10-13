@@ -1,9 +1,0 @@
-{
-	"BuildId": "55116800",
-	"Modules": 
-	{
-		"ClothoidsModule": "UnrealEditor-ClothoidsModule.dll",
-		"RoadBLDEditorToolkit": "UnrealEditor-RoadBLDEditorToolkit.dll",
-		"RoadBLDRuntime": "UnrealEditor-RoadBLDRuntime.dll"
-	}
-}

@@ -21,18 +21,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "CityBLD",
-			"Enabled": true
-		},
-		{
-			"Name": "RoadBLD",
-			"Enabled": true
-		},
-		{
-			"Name": "TwinBLD",
-			"Enabled": true
-		},
-		{
 			"Name": "ModelContextProtocol",
 			"Enabled": true
 		},
